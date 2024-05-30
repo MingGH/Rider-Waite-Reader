@@ -46,17 +46,17 @@ class TryAnotherReading extends Component {
     }
 }
 
-class NotFound404 extends Component {
-
-    render() {
-        return (
-
-            <div>
-                <h4>Page not found</h4>
-            </div>
-        )
-    }
-}
+// class NotFound404 extends Component {
+//
+//     render() {
+//         return (
+//
+//             <div>
+//                 <h4>Page not found</h4>
+//             </div>
+//         )
+//     }
+// }
 
 class FormGetAReading extends Component {
 
