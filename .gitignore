@@ -87,3 +87,8 @@ ENV/
 
 # Rope project settings
 .ropeproject
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/Rider-Waite-Reader.iml
+/.idea/vcs.xml
+/node_modules/.package-lock.json
