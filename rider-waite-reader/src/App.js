@@ -24,8 +24,8 @@ class Footer extends Component {
         return (
 
             <footer>
-                <p>This site uses public domain meanings from <a
-                    href="http://tarottools.com/a-guide-to-tarot-card-meanings/">Mark McElroy</a> and public domain art
+                <p>本网站使用的公共领域含义来自<a
+                    href="http://tarottools.com/a-guide-to-tarot-card-meanings/">Mark McElroy</a> 和公共领域艺术
                     scanned by <a href="https://en.wikipedia.org/wiki/Rider-Waite_tarot_deck">Holly Voley</a></p>
             </footer>
 
@@ -410,7 +410,7 @@ class SpreadOneCard extends Component {
 
                 <div className="primary">
                     <div className="reading">
-                        <h1>Interpreting Your Reading</h1>
+                        <h1>解读你的占卜结果</h1>
 
                         <div>
                             {cards.map((card) =>
