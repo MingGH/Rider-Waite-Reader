@@ -1,7 +1,5 @@
 # Rider-Waite Tarot Reader React App
-Get a unique tarot reading in one of five spreads on desktop, tablet, and phone.
-
-This is a single page React application which uses  
+在台式机、平板电脑和手机上以五种不同的方式获得独特的塔罗占卜。
 
 ## Usage
 
