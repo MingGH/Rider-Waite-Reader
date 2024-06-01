@@ -384,9 +384,8 @@ class SpreadOneCard extends Component {
             <div>
                 <div className="primary">
                     <div className="reading">
-                        <h1>About the One Card Spread</h1>
-                        <p className="center">Especially suited for a daily drawing for contemplation, the single card
-                            spread gives you a brief, succint, direct answer.</p>
+                        <h1>关于单张牌阵</h1>
+                        <p className="center">单张牌阵特别适合用于日常默想。它能给出简短、简洁、直接的答案。</p>
                     </div>
                 </div>
 
